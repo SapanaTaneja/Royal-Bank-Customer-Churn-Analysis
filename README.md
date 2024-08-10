@@ -18,6 +18,7 @@ The data model in this project is designed using a star schema for optimal perfo
 
 ![image](https://github.com/user-attachments/assets/a16c8649-fef6-4551-a468-16eec4708361)
 
+[Dashboard](https://github.com/SapanaTaneja/Royal-Bank-Customer-Churn-Analysis/blob/3655960988fad897d8787503fcaa27b2a242c0e0/Churn_Analysis.pdf)
 
 # **Reports Used for:**
 
